@@ -29,7 +29,7 @@
 
 ![](snapshot/objectDetectionTeamB.jpg#center)
 
-![](snapshot/objectDetectionTeamB.jpg-objects/bottle-1.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-2.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-3.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-6.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-7.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/tv-5.jpg)
+![](snapshot/objectDetectionTeamB.jpg-objects/bottle-1.jpg)![](snapshot/objectDetectionTeamB.jpg-objects/person-2.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-3.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-6.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-7.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/tv-5.jpg)
 
 
 **2018, August**
