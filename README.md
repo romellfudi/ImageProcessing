@@ -23,11 +23,11 @@
 
 ## 4. Image segmentation with Mask R-CNN
 
-![](snapshot/objectDetectionTeamA.jpg#center)
+![](snapshot/segment_teamA.jpg#center)
 
 ## 5. Objects Detection & Extraction
 
-![](snapshot/segment_teamB.jpg#center)
+![](snapshot/objectDetectionTeamB.jpg#center)
 
 ![](snapshot/objectDetectionTeamB.jpg-objects/bottle-1.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-2.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-3.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-6.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/person-7.jpg)<tab> ![](snapshot/objectDetectionTeamB.jpg-objects/tv-5.jpg)
 
