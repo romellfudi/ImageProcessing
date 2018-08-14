@@ -1,0 +1,5 @@
+### JupyterNotebook ###
+.ipynb_checkpoints
+*.py
+*.html
+*.DS_Store
