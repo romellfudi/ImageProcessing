@@ -31,6 +31,14 @@
 
 ![](snapshot/objectDetectionTeamB.jpg-objects/bottle-1.jpg)![](snapshot/objectDetectionTeamB.jpg-objects/person-2.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/person-3.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/person-6.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/person-7.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/tv-5.jpg)
 
+## Requirements
+
+* [Python 3.6](https://www.python.org/downloads/release/python-360/)
+* [Jupyter Notebook](http://jupyter.org/)
+
+## License
+
+MIT. See the LICENSE file for the copyright notice.
 
 **2018, August**
 
