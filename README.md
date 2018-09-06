@@ -5,7 +5,7 @@
 ### By Romell Domínguez
 [![](snapshot/icono.png)](https://www.romellfudi.com/)
 
-## 1. Kernels & Convultions
+## 1. Kernels & Convultions [go](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/1.Kernels%20%26%20Convolutions.ipynb)
 
 ![](snapshot/edge_detect.jpg#center)
 
@@ -13,19 +13,19 @@
 
 ![](snapshot/reduce_resolution.jpg#center)
 
-## 2. KERAS Preprocessing
+## 2. KERAS Preprocessing [go](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/2.KERAS%20Preprocessing.ipynb)
 
-## 3. Identifying objects
+## 3. Identifying objects [go](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/3.Identifying%20objects.ipynb)
 
 ![](snapshot/identifying_teamA.jpg#center)
 
 ![](snapshot/identifying_teamB.jpg#center)
 
-## 4. Image segmentation with Mask R-CNN
+## 4. Image segmentation with Mask R-CNN [go](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/4.Image%20segmentation%20with%20Mask%20R-CNN.ipynb)
 
 ![](snapshot/segment_teamA.jpg#center)
 
-## 5. Objects Detection & Extraction
+## 5. Objects Detection & Extraction [go](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/5.Objects%20Detection%20%26%20Extraction.ipynb)
 
 ![](snapshot/objectDetectionTeamB.jpg#center)
 
