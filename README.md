@@ -13,19 +13,19 @@
 
 ![](snapshot/reduce_resolution.jpg#center)
 
-## 2. KERAS Preprocessing [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/2.KERAS%20Preprocessing.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=2.KERAS%20Preprocessing.ipynb) [![Colab](https://img.shields.io/badge/launch-colaboratory-yellow.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/2.KERAS%20Preprocessing.ipynb)
+## 2. KERAS Preprocessing [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/2.KERAS%20Preprocessing.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=2.KERAS%20Preprocessing.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/2.KERAS%20Preprocessing.ipynb)
 
-## 3. Identifying objects [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/3.Identifying%20objects.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=3.Identifying%20objects.ipynb) [![Colab](https://img.shields.io/badge/launch-colaboratory-yellow.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/3.Identifying%20objects.ipynb)
+## 3. Identifying objects [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/3.Identifying%20objects.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=3.Identifying%20objects.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/3.Identifying%20objects.ipynb)
 
 ![](snapshot/identifying_teamA.jpg#center)
 
 ![](snapshot/identifying_teamB.jpg#center)
 
-## 4. Image segmentation with Mask R-CNN [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/4.Image%20segmentation%20with%20Mask%20R-CNN.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=4.Image%20segmentation%20with%20Mask%20R-CNN.ipynb) [![Colab](https://img.shields.io/badge/launch-colaboratory-yellow.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/4.Image%20segmentation%20with%20Mask%20R-CNN.ipynb)
+## 4. Image segmentation with Mask R-CNN [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/4.Image%20segmentation%20with%20Mask%20R-CNN.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=4.Image%20segmentation%20with%20Mask%20R-CNN.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/4.Image%20segmentation%20with%20Mask%20R-CNN.ipynb)
 
 ![](snapshot/segment_teamA.jpg#center)
 
-## 5. Objects Detection & Extraction [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/5.Objects%20Detection%20%26%20Extraction.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=5.Objects%20Detection%20%26%20Extraction.ipynb) [![Colab](https://img.shields.io/badge/launch-colaboratory-yellow.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/5.Objects%20Detection%20&%20Extraction.ipynb)
+## 5. Objects Detection & Extraction [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/5.Objects%20Detection%20%26%20Extraction.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=5.Objects%20Detection%20%26%20Extraction.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/5.Objects%20Detection%20&%20Extraction.ipynb)
 
 ![](snapshot/objectDetectionTeamB.jpg#center)
 
