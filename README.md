@@ -31,6 +31,10 @@
 
 ![](snapshot/objectDetectionTeamB.jpg-objects/bottle-1.jpg)![](snapshot/objectDetectionTeamB.jpg-objects/person-2.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/person-3.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/person-6.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/person-7.jpg) ![](snapshot/objectDetectionTeamB.jpg-objects/tv-5.jpg)
 
+## 6.Biomedical Analysis [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/6.Biomedical%20Analysis.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=6.Biomedical%20Analysis.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/6.Biomedical%20Analysis.ipynb)
+
+![](snapshot/biomedical_bones_detection.jpg#center)
+
 ## Requirements
 
 * [Python 3.6](https://www.python.org/downloads/release/python-360/)
