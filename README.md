@@ -3,7 +3,7 @@
 ## Working with difference image analysis
 
 ### By Romell Domínguez
-[![](snapshot/icono.png)](https://www.romellfudi.com/)
+[![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico#favico)](https://www.romellfudi.com/)
 
 ## 1. Kernels & Convultions [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/1.Kernels%20%26%20Convolutions.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=1.Kernels%2520%2526%2520Convolutions.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/1.Kernels%20&%20Convolutions.ipynb)
 
@@ -46,4 +46,6 @@ MIT. See the LICENSE file for the copyright notice.
 
 **2018, August**
 
-<style> img[src*='#center'] { width:500px; display: block; margin: auto; } </style>
+<style> img[src*='#center'] { width:500px; display: block; margin: auto; } 
+img[src*='#favico'] { width:200px;  display: block; margin: auto; }
+ </style>
