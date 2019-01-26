@@ -47,5 +47,4 @@ MIT. See the LICENSE file for the copyright notice.
 **2018, August**
 
 <style> img[src*='#center'] { width:500px; display: block; margin: auto; } 
-img[src*='#favico'] { width:200px;  display: block; margin: auto; }
  </style>
