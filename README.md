@@ -39,6 +39,8 @@
 
 ![](snapshot/data_augmentation.png#center)
 
+![](snapshot/roc_basic_cnn.png#roc)![](snapshot/roc_tl_fine_tuning_data_augmentation.png#roc)
+
 ## Requirements
 
 * [Python 3.6](https://www.python.org/downloads/release/python-360/)
@@ -51,4 +53,6 @@ MIT. See the LICENSE file for the copyright notice.
 **2018, August**
 
 <style> img[src*='#center'] { width:500px; display: block; margin: auto; } 
+ </style>
+<style> img[src*='#roc'] { width:250px; display: block; margin: auto; } 
  </style>
