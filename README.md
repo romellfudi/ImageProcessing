@@ -54,5 +54,5 @@ MIT. See the LICENSE file for the copyright notice.
 
 <style> img[src*='#center'] { width:500px; display: block; margin: auto; } 
  </style>
-<style> img[src*='#roc'] { width:250px; display: block; margin: auto; } 
+<style> img[src*='#roc'] { width:250px; display: block; } 
  </style>
