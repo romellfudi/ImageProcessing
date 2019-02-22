@@ -37,7 +37,7 @@
 
 ## 6.Transfer Learning into CNN [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ImageProcessing/blob/master/7.Transfer%20Learning.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ImageProcessing/master?filepath=7.Transfer%20Learning.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/romellfudi/ImageProcessing/blob/master/7.Transfer%20Learning.ipynb)
 
-![](snapshot/data_augmentation.jpg#center)
+![](snapshot/data_augmentation.png#center)
 
 ## Requirements
 
