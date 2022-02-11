@@ -13,7 +13,7 @@ keras==2.4.3
 mrcnn==0.2
 object_detection==0.0.3
 Pillow==8.3.2
-protobuf==3.14.0
+protobuf==3.15.0
 scikit_learn==0.24.0
 skimage==0.0
 utils==1.0.1
