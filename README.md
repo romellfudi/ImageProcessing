@@ -1,12 +1,12 @@
-![Gemini_Generated_Image_aoogleaoogleaoog](https://github.com/user-attachments/assets/ffe81838-bef9-4f8c-9f29-e2609bc105df)
-
 
 <h1 align='center'>
 Online Site  <a href="https://image-preprocessing-romellfudi.glitch.me"><img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fview-source%402x.png" alt="view source" height="30"></a>
 </h1>
 
-# Image Preprocessing 
-## *Working with difference image analysis*
+![Gemini_Generated_Image_aoogleaoogleaoog](https://github.com/user-attachments/assets/ffe81838-bef9-4f8c-9f29-e2609bc105df)
+
+<h1 align="center">Architecture Overview</h1>
+<img width="2816" height="1536" alt="Gemini_Generated_Image_rqnbywrqnbywrqnb" src="https://github.com/user-attachments/assets/433a1ce3-d915-4309-a61d-486db6774f94" />
 
 ### By Romell Domínguez
 [![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico#favico)](https://www.romellfudi.com/)
